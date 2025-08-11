@@ -18,4 +18,5 @@ This repository contains practical assignments and mini-projects developed durin
 - Kafka Streams
 - Docker
 
- Darbi jalila
+ CHAHIDY MERIEM
+
